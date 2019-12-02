@@ -8,4 +8,4 @@ def draw():
         fill(0)
     else:
         fill(255)
-    ellipse(mouseX, mouseY, 75, 75)
+    ellipse(mouseX, mouseY, 60, 60)
