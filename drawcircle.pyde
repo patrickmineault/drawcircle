@@ -5,7 +5,7 @@ def setup():
 def draw():
     # Any commands you need to run once a frame, for example drawing a circle.
     if mousePressed:
-        fill(0);
+        fill(0)
     else:
-        fill(255);
+        fill(255)
     ellipse(mouseX, mouseY, 80, 80)
